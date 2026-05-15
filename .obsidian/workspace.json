@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Кудлай/20. Выражение Match.md",
+                "file": "DEV/GIT/Git Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Выражение Match"
+              "title": "Git Start"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Кудлай/20. Выражение Match.md",
+                "file": "DEV/GIT/Git Start.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 20. Выражение Match"
+              "title": "Структура Git Start"
             }
           }
         ],
@@ -188,6 +188,9 @@
   "active": "01a092492f935cd3",
   "lastOpenFiles": [
     "PHP/Кудлай/20. Выражение Match.md",
+    "DEV/GIT/Git Start.md",
+    "DEV/GIT",
+    "DEV",
     "Кассы/замена ФН.md",
     "Prog",
     "AI",
