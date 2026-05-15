@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "271c7cc9ddffbba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e1ae143bcb24198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a092492f935cd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHP/Кудлай/20. Выражение Match.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20. Выражение Match"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52d505b2f824662f",
+    "type": "split",
+    "children": [
+      {
+        "id": "88a419ba75943263",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25722b749408a238",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "987d7137bcbc1539",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "af81638e344c015a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4034105bf195cd4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "70147c343e5ba4a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e67cdb7b0ec04c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "f095ee9519a68a65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "de0aca51fa9f64dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fcc70f700fbc82cc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "36bc512423c900d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PHP/Кудлай/20. Выражение Match.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 20. Выражение Match"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Начать/остановить запись": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "01a092492f935cd3",
+  "lastOpenFiles": [
+    "PHP/Кудлай/20. Выражение Match.md",
+    "Кассы/замена ФН.md",
+    "Prog",
+    "AI",
+    "Recording 20260515114318.m4a",
+    "Кассы/Работа с кассами.md",
+    "2026-05-15.md",
+    "Untitled.md",
+    "Кассы",
+    "Untitled.canvas",
+    "Untitled.base",
+    "PHP/PHP Котеров/Конспект.md",
+    "create a link.md",
+    "Welcome.md",
+    "PHP/Кудлай",
+    "PHP/PHP Котеров",
+    "PHP"
+  ]
+}
