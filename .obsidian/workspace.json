@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Ghtdfz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -187,8 +187,18 @@
   },
   "active": "01a092492f935cd3",
   "lastOpenFiles": [
-    "PHP/Кудлай/20. Выражение Match.md",
+    "create a link.md",
     "DEV/GIT/Git Start.md",
+    "DEV/GIT/GIT.md",
+    "DEV/DEV.md",
+    "PHP/Кудлай/foreach.md",
+    "PHP/PHP Котеров/Конспект.md",
+    "PHP/Кудлай/20. Выражение Match.md",
+    "PHP/Кудлай/Видео уроки Кудлай..md",
+    "PHP/PHP.md",
+    "Без названия.canvas",
+    "DEV/Obsidian/Форматирование..md",
+    "DEV/Obsidian",
     "DEV/GIT",
     "DEV",
     "Кассы/замена ФН.md",
@@ -201,11 +211,8 @@
     "Кассы",
     "Untitled.canvas",
     "Untitled.base",
-    "PHP/PHP Котеров/Конспект.md",
-    "create a link.md",
     "Welcome.md",
     "PHP/Кудлай",
-    "PHP/PHP Котеров",
-    "PHP"
+    "PHP/PHP Котеров"
   ]
 }
