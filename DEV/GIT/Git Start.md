@@ -1,3 +1,4 @@
+[[GIT]]
 `$ssh -T git@github.com` 
 > Проверяем доступность Git по ключам(этого компа C://User/.ssh).
 
@@ -16,6 +17,5 @@
 `git config --global user.name "office"`
 
 `git add .` ->`git commit -m 'Добавил DEV'`  - > `git push origin master`
-
 
 

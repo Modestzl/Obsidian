@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/GIT/Git Start.md",
+                "file": "DEV/Docker/Docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Start"
+              "title": "Docker"
+            }
+          },
+          {
+            "id": "4214cc3ee418c5a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Obsidian/Форматирование..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Форматирование."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Закладки"
             }
           }
         ]
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/GIT/Git Start.md",
+                "file": "DEV/Obsidian/Форматирование..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Git Start"
+              "title": "Структура Форматирование."
             }
           }
         ],
@@ -170,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,23 +196,33 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Создать новую базу": false
     }
   },
-  "active": "01a092492f935cd3",
+  "active": "4214cc3ee418c5a4",
   "lastOpenFiles": [
-    "create a link.md",
-    "DEV/GIT/Git Start.md",
-    "DEV/GIT/GIT.md",
     "DEV/DEV.md",
-    "PHP/Кудлай/foreach.md",
-    "PHP/PHP Котеров/Конспект.md",
+    "DEV/Obsidian/Obsidian VIDEO.md",
+    "DEV/Obsidian/Obsidian Plugins.md",
+    "DEV/Obsidian/Obsidian HELP.md",
+    "DEV/Obsidian/Obsidian.md",
+    "DEV/Obsidian/Mermaid.md",
+    "DEV/Obsidian/Видео от  flowing-abyss.md",
+    "DEV/Obsidian/Форматирование..md",
+    "DEV/Docker/Docker.md",
+    "DEV/Docker/Требования к модели.md",
+    "DEV/Docker",
+    "DEV/GIT/Git Start.md",
+    "[.md",
+    "Тест скобок.md",
     "PHP/Кудлай/20. Выражение Match.md",
     "PHP/Кудлай/Видео уроки Кудлай..md",
     "PHP/PHP.md",
+    "PHP/PHP Котеров/Конспект.md",
+    "create a link.md",
+    "DEV/GIT/GIT.md",
+    "PHP/Кудлай/foreach.md",
     "Без названия.canvas",
-    "DEV/Obsidian/Форматирование..md",
     "DEV/Obsidian",
     "DEV/GIT",
     "DEV",
@@ -212,7 +237,6 @@
     "Untitled.canvas",
     "Untitled.base",
     "Welcome.md",
-    "PHP/Кудлай",
-    "PHP/PHP Котеров"
+    "PHP/Кудлай"
   ]
 }
