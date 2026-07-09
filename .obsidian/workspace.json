@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/termux/Termux.md",
+                "file": "DEV/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Termux"
+              "title": "Linux"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/termux/Termux.md",
+                "file": "DEV/Linux/Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Termux"
+              "title": "Структура Linux"
             }
           }
         ],
@@ -186,43 +186,42 @@
   },
   "active": "ea34a71c00f72e1c",
   "lastOpenFiles": [
-    "DEV/Docker/Требования к модели.md",
-    "DEV/termux/Termux.md",
-    "DEV/termux",
-    "DEV/Docker/Docker.md",
-    "Кассы/Работа с кассами.md",
-    "Кассы/замена ФН.md",
-    "DEV/MS/Windows.md",
-    "PHP/Кудлай/20. Выражение Match.md",
-    "DEV/Linux/Рабочие моменты.md",
-    "DEV/MS",
+    "Untitled.base",
+    "PHP/PHP Содержание.md",
     "DEV/Linux/Linux.md",
-    "PHP/СОДЕРЖАНИЕ/Функции.md",
+    "DEV/MS/WSL2.md",
+    "DEV/MS/Windows.md",
+    "DEV/Obsidian/create a link.md",
+    "DEV/Obsidian/Форматирование..md",
     "PHP/Кудлай/Видео уроки Кудлай..md",
+    "Важные ресурсы.md",
+    "PHP/СОДЕРЖАНИЕ/Функции.md",
     "PHP/СОДЕРЖАНИЕ/sourse/именованные аргументы.png",
     "PHP/СОДЕРЖАНИЕ/sourse/обнуляемый тип.png",
-    "{FF0A097A-FFD6-4528-8A12-ACC0C1484697}.png",
-    "PHP/PHP.md",
     "PHP/СОДЕРЖАНИЕ/Трюки с IDE.md",
-    "PHP/СОДЕРЖАНИЕ/sourse",
+    "PHP/Кудлай/20. Выражение Match.md",
     "PHP/Кудлай/foreach.md",
-    "Важные ресурсы.md",
-    "DEV/Obsidian/Форматирование..md",
-    "DEV/Obsidian/create a link.md",
+    "PHP/PHP.md",
+    "DEV/DEV.md",
+    "DEV/Docker/Требования к модели.md",
+    "DEV/Docker/Docker.md",
+    "DEV/Linux/Рабочие моменты.md",
+    "DEV/termux/Termux.md",
+    "DEV/termux",
+    "Кассы/Работа с кассами.md",
+    "Кассы/замена ФН.md",
+    "DEV/MS",
+    "{FF0A097A-FFD6-4528-8A12-ACC0C1484697}.png",
+    "PHP/СОДЕРЖАНИЕ/sourse",
     "2026-05-15.md",
     "Тесты команд.md",
     "DEV/GIT/GIT.md",
     "DEV/Linux",
     "DEV/GIT/Git Start.md",
     "DEV/Obsidian/Obsidian Plugins.md",
-    "Welcome.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Recording 20260515114318.m4a",
     "Без названия.canvas",
-    "DEV/Obsidian/Obsidian HELP.md",
-    "DEV/Obsidian/Obsidian.md",
-    "().md",
     "PHP/СОДЕРЖАНИЕ",
     "DEV/Docker",
     "DEV/Obsidian",
