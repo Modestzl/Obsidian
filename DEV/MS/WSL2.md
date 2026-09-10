@@ -59,3 +59,30 @@
 > - **Имена.** При импорте дайте дистрибутиву новое имя (например, MovedUbuntu), чтобы не возникло конфликта с уже существующим дистрибутивом. [superuser.com](https://tr-page.yandex.ru/translate?lang=en-ru&url=https%3A%2F%2Fsuperuser.com%2Fquestions%2F1550622%2Fmove-wsl2-file-system-to-another-drive)
 > - **Пользователь по умолчанию.** После импорта в дистрибутиве по умолчанию может быть пользователь  root. Чтобы вернуть привычного пользователя, отредактируйте файл  /etc/wsl.conf  внутри папки дистрибутива и добавьте строку                                      [user] default=ваше_имя . [dev.to](https://dev.to/ahmadtheswe/move-your-wsl2-to-another-drive-32on)
 > - **Несколько дистрибутивов.** Если у вас несколько дистрибутивов, советую на новом диске создать отдельную папку для каждого — иначе при импорте могут возникнуть конфликты имён. [pureinfotech.com](https://pureinfotech.com/move-wsl-distros-different-drive-windows/)
+
+> [!success]- Скачать, установить, настроить.
+> ```json
+> # Скачал ubuntu-26.04-wsl-amd64.wsl Сайт Ubuntu
+># Создал папку ubuntu-26.04 На диске. D.
+># Запустил. Powershell под Administrator. И делаю импорт.
+>wsl --import Ubuntu-26.04 D:\WSL\Ubuntu-26.04  D:\WSL\ubuntuubuntu-26.04-wsl-amd64.wsl
+># Установить версию по умолчанию. На всякий случай.
+>wsl --set-default-version 2
+># Запустите новый дистрибутив.
+>wsl -d Ubuntu-26.04
+># Сразу добавьте нового пользователя.
+>useradd -m -G sudo -s /bin/bash ваше_имя
+>passwd ваше_имя
+># Остановить дистрибутив и зайти под своим именем.
+>wsl --terminate Ubuntu-26.04
+>wsl -d Ubuntu-26.04 -u ваше_имя
+># Что бы обратно вернуться в root
+>sudo -i
+># И обратно.
+>sudo -adminvrn
+>> ```
+
+![[docker WSL Resours.png]]
+
+
+

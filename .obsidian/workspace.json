@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Linux/Linux.md",
+                "file": "DEV/Linux/Рабочие моменты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Рабочие моменты"
+            }
+          },
+          {
+            "id": "dac302429fc58b51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Obsidian/create a link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create a link"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -156,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Linux/Linux.md",
+                "file": "DEV/Obsidian/create a link.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Linux"
+              "title": "Структура"
             }
           }
         ],
@@ -184,47 +201,50 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ea34a71c00f72e1c",
+  "active": "dac302429fc58b51",
   "lastOpenFiles": [
-    "Untitled.base",
-    "PHP/PHP Содержание.md",
     "DEV/Linux/Linux.md",
-    "DEV/MS/WSL2.md",
-    "DEV/MS/Windows.md",
+    "DEV/Docker/Docker.md",
+    "DEV/Docker/Требования к модели.md",
+    "DEV/GIT/Git Start.md",
+    "DEV/GIT/GIT.md",
     "DEV/Obsidian/create a link.md",
-    "DEV/Obsidian/Форматирование..md",
+    "DEV/Полезные скрипты.md",
+    "DEV/Docker/ссылки.md",
     "PHP/Кудлай/Видео уроки Кудлай..md",
+    "DEV/Linux/Рабочие моменты.md",
+    "DEV/Linux/Подборка основных команд Linux для работы с сетью.md",
+    "PHP/СОДЕРЖАНИЕ/Чтение из файла и запись в файл на PHP.md",
+    "PHP/PHP Содержание.md",
+    "PHP/PHP.md",
+    "DEV/MS/{C5E4EAFB-BACC-4EBA-85AD-8DBE1238FC11}.png",
+    "test cmds.md",
     "Важные ресурсы.md",
-    "PHP/СОДЕРЖАНИЕ/Функции.md",
+    "().md",
+    "PHP/СОДЕРЖАНИЕ/Тестирование.md",
+    "DEV/Obsidian/Obsidian VIDEO.md",
+    "DEV/Obsidian/Форматирование..md",
+    "DEV/MS/WSL2.md",
+    "template/Структура заметки в Obsidian.md",
+    "template",
+    "DEV/DEV.md",
+    "DEV/Linux/tmux/tmux.md",
+    "DEV/MS/Windows.md",
+    "DEV/MS/docker WSL Resours.png",
+    "Без названия.canvas",
+    "DEV/Linux/tmux",
+    "DEV/termux/Termux.md",
+    "Untitled.base",
     "PHP/СОДЕРЖАНИЕ/sourse/именованные аргументы.png",
     "PHP/СОДЕРЖАНИЕ/sourse/обнуляемый тип.png",
-    "PHP/СОДЕРЖАНИЕ/Трюки с IDE.md",
-    "PHP/Кудлай/20. Выражение Match.md",
-    "PHP/Кудлай/foreach.md",
-    "PHP/PHP.md",
-    "DEV/DEV.md",
-    "DEV/Docker/Требования к модели.md",
-    "DEV/Docker/Docker.md",
-    "DEV/Linux/Рабочие моменты.md",
-    "DEV/termux/Termux.md",
     "DEV/termux",
-    "Кассы/Работа с кассами.md",
-    "Кассы/замена ФН.md",
     "DEV/MS",
     "{FF0A097A-FFD6-4528-8A12-ACC0C1484697}.png",
     "PHP/СОДЕРЖАНИЕ/sourse",
-    "2026-05-15.md",
-    "Тесты команд.md",
-    "DEV/GIT/GIT.md",
     "DEV/Linux",
-    "DEV/GIT/Git Start.md",
-    "DEV/Obsidian/Obsidian Plugins.md",
     "Untitled.canvas",
     "Recording 20260515114318.m4a",
-    "Без названия.canvas",
     "PHP/СОДЕРЖАНИЕ",
-    "DEV/Docker",
-    "DEV/Obsidian",
-    "DEV/GIT"
+    "DEV/Docker"
   ]
 }
