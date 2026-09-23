@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ИИ/YouTube-likes-2026-09.md",
+                "file": "test cmds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YouTube-likes-2026-09"
+              "title": "test cmds"
+            }
+          },
+          {
+            "id": "5e53392027eb9428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DEV/Obsidian/Тест кода Dataview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тест кода Dataview"
             }
           }
         ],
@@ -173,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ИИ/YouTube-likes-2026-09.md",
+                "file": "test cmds.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -187,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 559.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,10 +217,22 @@
   },
   "active": "dac302429fc58b51",
   "lastOpenFiles": [
+    "DEV/Obsidian/Dataview Example.md",
+    "DEV/Obsidian/Тест кода Dataview.md",
+    "DEV/Linux/Рабочие моменты.md",
+    "DEV/Obsidian/ShotKeys Obsidian.md",
+    "DEV/Linux/Подборка основных команд Linux для работы с сетью.md",
+    "DEV/Obsidian/Форматирование..md",
+    "DEV/Obsidian/Obsidian Plugins.md",
+    "DEV/Obsidian/Obsidian HELP.md",
+    "DEV/Obsidian/Mermaid.md",
+    "DEV/Obsidian/Obsidian.md",
+    "test cmds.md",
+    "Важные ресурсы.md",
+    "Без названия.canvas",
+    "ИИ/YouTube-likes-2026-09.md",
     "ИИ/YouTube-02-Четыре-плагина-для-вайбкодинга.md",
     "ИИ/Yandex-recently-closed-2026-09-22.md",
-    "DEV/Linux/Рабочие моменты.md",
-    "ИИ/YouTube-likes-2026-09.md",
     "ИИ/ИИ.md",
     "ИИ/YouTube-likes-2026-09.md.6c8e484f-99a8-4bb2-95a2-bd5d71968dec.chatgptdownload",
     "DEV/Obsidian/create a link.md",
@@ -219,22 +245,10 @@
     "DEV/Полезные скрипты.md",
     "DEV/Docker/ссылки.md",
     "PHP/Кудлай/Видео уроки Кудлай..md",
-    "DEV/Linux/Подборка основных команд Linux для работы с сетью.md",
     "PHP/СОДЕРЖАНИЕ/Чтение из файла и запись в файл на PHP.md",
-    "PHP/PHP Содержание.md",
-    "PHP/PHP.md",
     "DEV/MS/{C5E4EAFB-BACC-4EBA-85AD-8DBE1238FC11}.png",
-    "test cmds.md",
-    "Важные ресурсы.md",
-    "().md",
-    "PHP/СОДЕРЖАНИЕ/Тестирование.md",
-    "DEV/Obsidian/Obsidian VIDEO.md",
-    "DEV/Obsidian/Форматирование..md",
-    "DEV/MS/WSL2.md",
-    "template/Структура заметки в Obsidian.md",
     "template",
     "DEV/MS/docker WSL Resours.png",
-    "Без названия.canvas",
     "DEV/Linux/tmux",
     "Untitled.base",
     "PHP/СОДЕРЖАНИЕ/sourse/именованные аргументы.png",
