@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "271c7cc9ddffbba9",
+    "id": "92a7a5d6224fd1df",
     "type": "split",
     "children": [
       {
-        "id": "2e1ae143bcb24198",
+        "id": "05a8a46dfb2cba54",
         "type": "tabs",
         "children": [
           {
-            "id": "ea34a71c00f72e1c",
+            "id": "1d74b802ed269895",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEV/Linux/Рабочие моменты.md",
+                "file": "DEV/Obsidian/Mermaid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Рабочие моменты"
-            }
-          },
-          {
-            "id": "dac302429fc58b51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DEV/Полезные скрипты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полезные скрипты"
+              "title": "Mermaid"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "52d505b2f824662f",
+    "id": "ff919b35ab9b536e",
     "type": "split",
     "children": [
       {
-        "id": "88a419ba75943263",
+        "id": "fcf095c4979713ed",
         "type": "tabs",
         "children": [
           {
-            "id": "25722b749408a238",
+            "id": "2364749e817f1687",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -65,12 +50,12 @@
             }
           },
           {
-            "id": "987d7137bcbc1539",
+            "id": "aa1ce70f09e30cd1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Ghtdfz",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,11 +67,14 @@
             }
           },
           {
-            "id": "af81638e344c015a",
+            "id": "27be1b4f7f086ddb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
@@ -98,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "4034105bf195cd4c",
+    "id": "a60a9db58e4a6bff",
     "type": "split",
     "children": [
       {
-        "id": "70147c343e5ba4a7",
+        "id": "da9aa4ddeecbf5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "e1e67cdb7b0ec04c",
+            "id": "f22f529914543cdc",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "DEV/Obsidian/Mermaid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,25 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "f095ee9519a68a65",
+            "id": "5a0aba67d930e532",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.base",
+                "file": "DEV/Obsidian/Mermaid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "de0aca51fa9f64dd",
+            "id": "254ee063613e23ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,11 +138,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Теги"
             }
           },
           {
-            "id": "fcc70f700fbc82cc",
+            "id": "eaaa4cd2a8b82259",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -168,12 +156,12 @@
             }
           },
           {
-            "id": "36bc512423c900d6",
+            "id": "647099b381e2e198",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "DEV/Полезные скрипты.md",
+                "file": "DEV/Obsidian/Mermaid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -182,68 +170,33 @@
               "title": "Структура"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Начать/остановить запись": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
       "bases:Создать новую базу": false
     }
   },
-  "active": "dac302429fc58b51",
+  "active": "1d74b802ed269895",
   "lastOpenFiles": [
-    "DEV/Linux/Рабочие моменты.md",
-    "DEV/Полезные скрипты.md",
-    "Без названия.base",
+    "DEV/Obsidian/Dataview Example.md",
     "DEV/Obsidian/create a link.md",
-    "DEV/Linux/Linux.md",
-    "DEV/Docker/Docker.md",
-    "DEV/Docker/Требования к модели.md",
+    "DEV/Obsidian/Тест кода Dataview.md",
+    "DEV/Obsidian/Видео от  flowing-abyss.md",
     "DEV/GIT/Git Start.md",
     "DEV/GIT/GIT.md",
-    "DEV/Docker/ссылки.md",
-    "PHP/Кудлай/Видео уроки Кудлай..md",
-    "DEV/Linux/Подборка основных команд Linux для работы с сетью.md",
-    "PHP/СОДЕРЖАНИЕ/Чтение из файла и запись в файл на PHP.md",
-    "PHP/PHP Содержание.md",
-    "PHP/PHP.md",
-    "DEV/MS/{C5E4EAFB-BACC-4EBA-85AD-8DBE1238FC11}.png",
-    "test cmds.md",
-    "Важные ресурсы.md",
-    "().md",
-    "PHP/СОДЕРЖАНИЕ/Тестирование.md",
-    "DEV/Obsidian/Obsidian VIDEO.md",
-    "DEV/Obsidian/Форматирование..md",
-    "DEV/MS/WSL2.md",
-    "template/Структура заметки в Obsidian.md",
-    "template",
-    "DEV/DEV.md",
-    "DEV/Linux/tmux/tmux.md",
-    "DEV/MS/Windows.md",
-    "DEV/MS/docker WSL Resours.png",
-    "Без названия.canvas",
-    "DEV/Linux/tmux",
-    "Untitled.base",
-    "PHP/СОДЕРЖАНИЕ/sourse/именованные аргументы.png",
-    "PHP/СОДЕРЖАНИЕ/sourse/обнуляемый тип.png",
-    "DEV/termux",
-    "DEV/MS",
-    "{FF0A097A-FFD6-4528-8A12-ACC0C1484697}.png",
-    "PHP/СОДЕРЖАНИЕ/sourse",
-    "DEV/Linux",
-    "Untitled.canvas",
-    "Recording 20260515114318.m4a",
-    "PHP/СОДЕРЖАНИЕ"
+    "AI/AI.md"
   ]
 }
