@@ -1,0 +1,392 @@
+{
+  "files_searched": 4754,
+  "references": {
+    "vqback": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "vqmod/1": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "vqmod/2": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami3_backup": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami3_12012017": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami4_pre": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami2": {
+      "other_source_count": 16,
+      "archive_or_generated_count": 16,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3\\template\\checkout\\login.tpl",
+          "line": 80,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3\\template\\checkout\\login.tpl",
+          "line": 83,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3\\template\\checkout\\login.tpl",
+          "line": 86,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3\\template\\checkout\\login.tpl",
+          "line": 89,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\register.tpl",
+          "line": 55,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\register.tpl",
+          "line": 58,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\register.tpl",
+          "line": 61,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\register.tpl",
+          "line": 64,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "catalog/view/theme/ami3": {
+      "other_source_count": 24,
+      "archive_or_generated_count": 54,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\login.tpl",
+          "line": 98,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\login.tpl",
+          "line": 101,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\login.tpl",
+          "line": 104,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\account\\login.tpl",
+          "line": 107,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1565,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1579,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1583,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1587,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "catalog/view/theme/amit": {
+      "other_source_count": 5,
+      "archive_or_generated_count": 4,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami2\\template\\checkout\\checkout.tpl",
+          "line": 39,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami2\\template\\checkout\\checkout.tpl",
+          "line": 82,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3\\template\\checkout\\checkout.tpl",
+          "line": 245,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1565,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre\\template\\checkout\\checkout.tpl",
+          "line": 1587,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "1c/index.php_back": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/model/catalog/product01.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/00checkout.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/01checkout.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/02checkout.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/03checkout.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/checkout05.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/checkout/woc_checkout_cart.php": {
+      "other_source_count": 41,
+      "archive_or_generated_count": 14,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\00checkout.php",
+          "line": 1305,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\00checkout.php",
+          "line": 1349,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\00checkout.php",
+          "line": 1573,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\01checkout.php",
+          "line": 1305,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\01checkout.php",
+          "line": 1349,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\01checkout.php",
+          "line": 1573,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\02checkout.php",
+          "line": 1305,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\02checkout.php",
+          "line": 1349,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "admin/controller/payment/google_checkout.php_": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "admin/controller/payment/authorizenet_sim.php_": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/controller/pavblog/blog.php_": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "vqmod/xml/ocsql._xml": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "vqmod/xml/a_vqmod_quickcheckout.xml_": {
+      "other_source_count": 2,
+      "archive_or_generated_count": 0,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\module\\quickcheckout.php",
+          "line": 509,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\module\\quickcheckout.php",
+          "line": 519,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "api/test.php": {
+      "other_source_count": 2,
+      "archive_or_generated_count": 0,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\product\\search.php",
+          "line": 256,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\product\\search.php",
+          "line": 280,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "api/testmail.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "api/1123.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "info.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "utils/pinf.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "traceroute.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "ga_test.html": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "inde_x.html": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "index.html": {
+      "other_source_count": 9,
+      "archive_or_generated_count": 0,
+      "examples": [
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\model\\payment\\yoomoney\\Updater\\BitbucketConnector.php",
+          "line": 40,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 3511,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 3769,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 4363,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 4890,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 5150,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\admin\\view\\javascript\\shopunity\\charts_svg\\dc.js",
+          "line": 5623,
+          "kind": "other_source"
+        },
+        {
+          "path": "E:\\GPT\\amital\\amital_ru\\utils\\lbox\\js\\lightbox-plus-jquery.js",
+          "line": 10296,
+          "kind": "other_source"
+        }
+      ]
+    },
+    "pvz_yandex2.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "generator/yandex_market.php": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami6/template/checkout/!checkout.tpl": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    },
+    "catalog/view/theme/ami6/template/product/promo_list01.tpl": {
+      "other_source_count": 0,
+      "archive_or_generated_count": 0,
+      "examples": []
+    }
+  }
+}
