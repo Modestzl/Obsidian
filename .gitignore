@@ -1,2 +1,17 @@
 # Local Obsidian tabs and workspace layout
 /.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/workspaces.json
+
+# Obsidian trash
+/.trash/
+
+# Windows and macOS metadata
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Incomplete downloads and temporary files
+*.crdownload
+*.part
+*.tmp
