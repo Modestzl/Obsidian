@@ -1,0 +1,173 @@
+{
+  "all_files": 12005,
+  "all_bytes": 1552300624,
+  "technical_files_considered": 5804,
+  "exact_duplicate_groups": 582,
+  "files_in_duplicate_groups": 2152,
+  "additional_identical_copies": 1570,
+  "additional_identical_bytes": 8609807,
+  "folders": [
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqback",
+      "files": 177,
+      "bytes": 6723927
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqmod",
+      "files": 184,
+      "bytes": 2719986
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqmod\\1",
+      "files": 26,
+      "bytes": 422982
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqmod\\2",
+      "files": 101,
+      "bytes": 1301877
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqmod\\2\\dev",
+      "files": 50,
+      "bytes": 638422
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\vqmod\\2\\prod",
+      "files": 50,
+      "bytes": 635937
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\system\\cache1",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\system\\cache2",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\awstats",
+      "files": 844,
+      "bytes": 4241053
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\amital.ru",
+      "files": 0,
+      "bytes": 0
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\tmp",
+      "files": 2,
+      "bytes": 53474
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\tracker",
+      "files": 1,
+      "bytes": 1349
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami2",
+      "files": 358,
+      "bytes": 9935851
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3",
+      "files": 407,
+      "bytes": 13949973
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3_12012017",
+      "files": 382,
+      "bytes": 13608474
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3_backup",
+      "files": 381,
+      "bytes": 13737165
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami4_pre",
+      "files": 381,
+      "bytes": 13584812
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami6",
+      "files": 423,
+      "bytes": 13149343
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\amit",
+      "files": 172,
+      "bytes": 538854
+    },
+    {
+      "path": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\default",
+      "files": 246,
+      "bytes": 890736
+    }
+  ],
+  "comparisons": [
+    {
+      "left": "E:\\GPT\\amital\\amital_ru\\vqback\\vqmod",
+      "right": "E:\\GPT\\amital\\amital_ru\\vqmod",
+      "left_files": 177,
+      "right_files": 184,
+      "identical": 166,
+      "different": 11,
+      "only_left": 0,
+      "only_right": 7,
+      "left_bytes": 6723927,
+      "identical_bytes": 2191801
+    },
+    {
+      "left": "E:\\GPT\\amital\\amital_ru\\vqmod\\2\\dev",
+      "right": "E:\\GPT\\amital\\amital_ru\\vqmod\\2\\prod",
+      "left_files": 50,
+      "right_files": 50,
+      "identical": 49,
+      "different": 1,
+      "only_left": 0,
+      "only_right": 0,
+      "left_bytes": 638422,
+      "identical_bytes": 601793
+    },
+    {
+      "left": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3_backup",
+      "right": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3",
+      "left_files": 381,
+      "right_files": 407,
+      "identical": 347,
+      "different": 34,
+      "only_left": 0,
+      "only_right": 26,
+      "left_bytes": 13737165,
+      "identical_bytes": 13179661
+    },
+    {
+      "left": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3_12012017",
+      "right": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami3",
+      "left_files": 382,
+      "right_files": 407,
+      "identical": 348,
+      "different": 34,
+      "only_left": 0,
+      "only_right": 25,
+      "left_bytes": 13608474,
+      "identical_bytes": 13180871
+    },
+    {
+      "left": "E:\\GPT\\amital\\amital_ru\\system\\cache2",
+      "right": "E:\\GPT\\amital\\amital_ru\\system\\cache1",
+      "left_files": 0,
+      "right_files": 0,
+      "identical": 0,
+      "different": 0,
+      "only_left": 0,
+      "only_right": 0,
+      "left_bytes": 0,
+      "identical_bytes": 0
+    }
+  ]
+}

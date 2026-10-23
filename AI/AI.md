@@ -8,8 +8,7 @@ https://www.youtube.com/shorts/Cs-s_sp3Ejk
 # Ты учишься слишком медленно: используй
 
 https://paytool.ru/  ModestZLSS оплатил Apple экаунт
-https://web.platipomiru.com/  моя Виртуальная карта. r920491836@gmail.com
-
+https://web.platipomiru.com/  моя Виртуальная карта. r920491836@gmail.com   u7!
 
 
 

@@ -1,0 +1,903 @@
+[
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\1c\\index.php_back",
+    "right": "E:\\GPT\\amital\\amital_ru\\1c\\index.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 1140,
+    "right_bytes": 1787,
+    "line_similarity": 0.2075,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          3,
+          3
+        ],
+        "right_lines": [
+          3,
+          4
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          5,
+          19
+        ],
+        "right_lines": [
+          6,
+          28
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          21,
+          24
+        ],
+        "right_lines": [
+          30,
+          43
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          26,
+          32
+        ],
+        "right_lines": [
+          45,
+          45
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          34,
+          39
+        ],
+        "right_lines": [
+          47,
+          48
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          43,
+          44
+        ],
+        "right_lines": [
+          52,
+          53
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          46,
+          48
+        ],
+        "right_lines": [
+          55,
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\model\\catalog\\product01.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\model\\catalog\\product.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 57732,
+    "right_bytes": 58535,
+    "line_similarity": 0.9773,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          510,
+          510
+        ],
+        "right_lines": [
+          510,
+          512
+        ]
+      },
+      {
+        "operation": "insert",
+        "left_lines": [
+          520,
+          519
+        ],
+        "right_lines": [
+          522,
+          524
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          528,
+          529
+        ],
+        "right_lines": [
+          533,
+          534
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          536,
+          541
+        ],
+        "right_lines": [
+          541,
+          545
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          543,
+          543
+        ],
+        "right_lines": [
+          547,
+          547
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          551,
+          551
+        ],
+        "right_lines": [
+          555,
+          555
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          602,
+          603
+        ],
+        "right_lines": [
+          606,
+          607
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          605,
+          605
+        ],
+        "right_lines": [
+          609,
+          609
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          614,
+          614
+        ],
+        "right_lines": [
+          618,
+          618
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          1236,
+          1236
+        ],
+        "right_lines": [
+          1240,
+          1242
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          1238,
+          1238
+        ],
+        "right_lines": [
+          1244,
+          1265
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\01checkout.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\02checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90755,
+    "right_bytes": 90755,
+    "line_similarity": 0.9995,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          2098,
+          2098
+        ],
+        "right_lines": [
+          2098,
+          2098
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\inde_x.html",
+    "right": "E:\\GPT\\amital\\amital_ru\\index.html",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 3027,
+    "right_bytes": 3179,
+    "line_similarity": 0.973,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          5,
+          4
+        ],
+        "right_lines": [
+          5,
+          5
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          74,
+          75
+        ],
+        "right_lines": [
+          75,
+          76
+        ]
+      },
+      {
+        "operation": "insert",
+        "left_lines": [
+          78,
+          77
+        ],
+        "right_lines": [
+          79,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\pvz_yandex2.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\pvz_yandex.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 46,
+    "right_bytes": 1946,
+    "line_similarity": 0.0548,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          2,
+          2
+        ],
+        "right_lines": [
+          2,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\00checkout.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90601,
+    "right_bytes": 90780,
+    "line_similarity": 0.9967,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          2,
+          1
+        ],
+        "right_lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2025,
+          2025
+        ],
+        "right_lines": [
+          2027,
+          2027
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2030,
+          2030
+        ],
+        "right_lines": [
+          2032,
+          2032
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2035,
+          2035
+        ],
+        "right_lines": [
+          2037,
+          2037
+        ]
+      },
+      {
+        "operation": "insert",
+        "left_lines": [
+          2096,
+          2095
+        ],
+        "right_lines": [
+          2098,
+          2103
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\01checkout.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90755,
+    "right_bytes": 90780,
+    "line_similarity": 0.9965,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          2,
+          1
+        ],
+        "right_lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2025,
+          2025
+        ],
+        "right_lines": [
+          2027,
+          2027
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2030,
+          2030
+        ],
+        "right_lines": [
+          2032,
+          2032
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2035,
+          2035
+        ],
+        "right_lines": [
+          2037,
+          2037
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2096,
+          2096
+        ],
+        "right_lines": [
+          2098,
+          2098
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2098,
+          2098
+        ],
+        "right_lines": [
+          2100,
+          2103
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\02checkout.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90755,
+    "right_bytes": 90780,
+    "line_similarity": 0.9965,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          2,
+          1
+        ],
+        "right_lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2025,
+          2025
+        ],
+        "right_lines": [
+          2027,
+          2027
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2030,
+          2030
+        ],
+        "right_lines": [
+          2032,
+          2032
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2035,
+          2035
+        ],
+        "right_lines": [
+          2037,
+          2037
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2096,
+          2096
+        ],
+        "right_lines": [
+          2098,
+          2098
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2098,
+          2098
+        ],
+        "right_lines": [
+          2100,
+          2103
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\03checkout.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90908,
+    "right_bytes": 90780,
+    "line_similarity": 0.9962,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          2,
+          1
+        ],
+        "right_lines": [
+          2,
+          3
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2025,
+          2025
+        ],
+        "right_lines": [
+          2027,
+          2027
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2030,
+          2030
+        ],
+        "right_lines": [
+          2032,
+          2032
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2035,
+          2035
+        ],
+        "right_lines": [
+          2037,
+          2037
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2098,
+          2101
+        ],
+        "right_lines": [
+          2100,
+          2103
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout05.php",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\checkout\\checkout.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 90940,
+    "right_bytes": 90780,
+    "line_similarity": 0.9967,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          2027,
+          2027
+        ],
+        "right_lines": [
+          2027,
+          2027
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2032,
+          2032
+        ],
+        "right_lines": [
+          2032,
+          2032
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2037,
+          2037
+        ],
+        "right_lines": [
+          2037,
+          2037
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          2100,
+          2103
+        ],
+        "right_lines": [
+          2100,
+          2103
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami6\\template\\checkout\\!checkout.tpl",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami6\\template\\checkout\\checkout.tpl",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 17633,
+    "right_bytes": 19462,
+    "line_similarity": 0.9488,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          1,
+          1
+        ],
+        "right_lines": [
+          1,
+          1
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          167,
+          167
+        ],
+        "right_lines": [
+          167,
+          167
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          176,
+          176
+        ],
+        "right_lines": [
+          176,
+          176
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          206,
+          208
+        ],
+        "right_lines": [
+          206,
+          215
+        ]
+      },
+      {
+        "operation": "insert",
+        "left_lines": [
+          218,
+          217
+        ],
+        "right_lines": [
+          225,
+          228
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami6\\template\\product\\promo_list01.tpl",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\view\\theme\\ami6\\template\\product\\promo_list.tpl",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 9685,
+    "right_bytes": 9694,
+    "line_similarity": 0.9921,
+    "changed_blocks": [
+      {
+        "operation": "replace",
+        "left_lines": [
+          20,
+          20
+        ],
+        "right_lines": [
+          20,
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\payment\\google_checkout.php_",
+    "right": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\payment\\google_checkout.php",
+    "right_exists": false
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\payment\\authorizenet_sim.php_",
+    "right": "E:\\GPT\\amital\\amital_ru\\admin\\controller\\payment\\authorizenet_sim.php",
+    "right_exists": false
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\pavblog\\blog.php_",
+    "right": "E:\\GPT\\amital\\amital_ru\\catalog\\controller\\pavblog\\blog.php",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 10516,
+    "right_bytes": 11465,
+    "line_similarity": 0.9161,
+    "changed_blocks": [
+      {
+        "operation": "delete",
+        "left_lines": [
+          70,
+          73
+        ],
+        "right_lines": [
+          70,
+          69
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          75,
+          75
+        ],
+        "right_lines": [
+          71,
+          71
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          89,
+          93
+        ],
+        "right_lines": [
+          85,
+          111
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          96,
+          96
+        ],
+        "right_lines": [
+          114,
+          114
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          99,
+          99
+        ],
+        "right_lines": [
+          117,
+          117
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          127,
+          127
+        ],
+        "right_lines": [
+          145,
+          145
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          130,
+          130
+        ],
+        "right_lines": [
+          148,
+          148
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          169,
+          169
+        ],
+        "right_lines": [
+          187,
+          187
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          184,
+          184
+        ],
+        "right_lines": [
+          202,
+          202
+        ]
+      }
+    ]
+  },
+  {
+    "left": "E:\\GPT\\amital\\amital_ru\\vqmod\\xml\\ocsql._xml",
+    "right": "E:\\GPT\\amital\\amital_ru\\vqmod\\xml\\ocsql.xml",
+    "right_exists": true,
+    "exact": false,
+    "left_bytes": 1406,
+    "right_bytes": 2628,
+    "line_similarity": 0.5036,
+    "changed_blocks": [
+      {
+        "operation": "insert",
+        "left_lines": [
+          9,
+          8
+        ],
+        "right_lines": [
+          9,
+          23
+        ]
+      },
+      {
+        "operation": "replace",
+        "left_lines": [
+          21,
+          33
+        ],
+        "right_lines": [
+          36,
+          37
+        ]
+      },
+      {
+        "operation": "insert",
+        "left_lines": [
+          46,
+          45
+        ],
+        "right_lines": [
+          50,
+          88
+        ]
+      }
+    ]
+  }
+]
