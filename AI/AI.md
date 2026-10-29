@@ -9,6 +9,6 @@ https://www.youtube.com/shorts/Cs-s_sp3Ejk
 
 https://paytool.ru/  ModestZLSS оплатил Apple экаунт
 https://web.platipomiru.com/  моя Виртуальная карта. r920491836@gmail.com   u7!
-
+ChatGpt Продляется автоматически 21 числа каждого месяца. важно на счету иметь больше 23$ 
 
 
