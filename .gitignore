@@ -15,3 +15,5 @@ desktop.ini
 *.crdownload
 *.part
 *.tmp
+
+.git_wrong_backup/
