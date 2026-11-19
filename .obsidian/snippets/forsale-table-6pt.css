@@ -1,0 +1,72 @@
+.forsale-table-6pt {
+    --table-text-size: 6pt;
+    --file-line-width: 100%;
+}
+
+.forsale-table-6pt .markdown-preview-sizer,
+.forsale-table-6pt .cm-sizer {
+    max-width: none !important;
+}
+
+.forsale-table-6pt table {
+    width: 100% !important;
+    max-width: 100% !important;
+    table-layout: fixed;
+}
+
+.forsale-table-6pt table,
+.forsale-table-6pt table * {
+    font-size: 6pt !important;
+}
+
+.forsale-table-6pt table th,
+.forsale-table-6pt table td {
+    min-width: 0 !important;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    padding: 4px !important;
+}
+
+.forsale-table-6pt table th:nth-child(1),
+.forsale-table-6pt table td:nth-child(1) {
+    width: 3%;
+    white-space: nowrap !important;
+    overflow-wrap: normal;
+}
+
+.forsale-table-6pt table th:nth-child(2),
+.forsale-table-6pt table td:nth-child(2) {
+    width: 12%;
+}
+
+.forsale-table-6pt table th:nth-child(3),
+.forsale-table-6pt table td:nth-child(3) {
+    width: 20%;
+}
+
+.forsale-table-6pt table th:nth-child(4),
+.forsale-table-6pt table td:nth-child(4) {
+    width: 27%;
+}
+
+.forsale-table-6pt table th:nth-child(5),
+.forsale-table-6pt table td:nth-child(5) {
+    width: 17%;
+}
+
+.forsale-table-6pt table th:nth-child(6),
+.forsale-table-6pt table td:nth-child(6) {
+    width: 21%;
+}
+
+.forsale-table-6pt table img {
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+@media print {
+    .forsale-table-6pt table {
+        width: 100% !important;
+        table-layout: fixed;
+    }
+}

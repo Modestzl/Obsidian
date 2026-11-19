@@ -1,4 +1,8 @@
 {
   "cssTheme": "Typomagical",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "forsale-table-6pt"
+  ]
 }
